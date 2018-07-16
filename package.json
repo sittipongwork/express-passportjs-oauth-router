@@ -1,0 +1,24 @@
+{
+  "name": "express-passportjs-oauth-router",
+  "version": "1.0.0",
+  "description": "Express Router implement authentication by using PassportJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sittipongwork/express-passportjs-oauth-router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sittipongwork/express-passportjs-oauth-router/issues"
+  },
+  "homepage": "https://github.com/sittipongwork/express-passportjs-oauth-router#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1"
+  }
+}
